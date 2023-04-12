@@ -14,9 +14,19 @@ Localizamos el área de la placa donde vamos a colocar el chip
    
 Puntos a soldar, se recomienda soldador de no mas de 14W con estaño de 1mm y flux. 
 
+Instalacion para el modchip_12c508a.hex
    ![diagram 1](images/03.jpg)
 
-Repasar las soldaduras a la inversa, ten cuidado de no calentar mucho el chip ya que lo puedes quemar. 
+
+Instalacion para stealth_12c508a.hex
+   ![diagram 1](images/04.jpg)
+
+***Notas***
+- Modo Dino pulsar reset 3 seg
+- una pulsación mas de reset para cambiar otro modo, hay 10 "Dino Modes", esto no es necesario para los modelos 750x/9xxx
+- se desactiva al pulsar reset 11 veces, apagar con power se activa
+- Si se quiere poner un LED, en la patilla 3
+- Repasar las soldaduras a la inversa, ten cuidado de no calentar mucho el chip ya que lo puedes quemar. 
 
 :warning: *La modificación de la consola, anula cualquier garantía que pudiera tener, y solo es responsable el propietario de la consola, el uso de copias de juegos ilegales no es legal en muchos países, este tutorial se ha realizado a modo informativo, el autor no se hace responsable del mal uso que se le pueda dar.*
 
